@@ -63,3 +63,8 @@ void MainWindow::on_actionPrint_triggered()
     }
     ui->textEdit->print(&printer);
 }
+
+void MainWindow::on_actionExit_triggered()
+{
+    QApplication::quit();
+}

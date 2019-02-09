@@ -47,6 +47,7 @@
     <addaction name="actionOpen"/>
     <addaction name="actionSave_As"/>
     <addaction name="actionPrint"/>
+    <addaction name="separator"/>
     <addaction name="actionExit"/>
    </widget>
    <widget class="QMenu" name="menuEdit">
