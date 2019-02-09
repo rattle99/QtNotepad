@@ -68,3 +68,8 @@ void MainWindow::on_actionExit_triggered()
 {
     QApplication::quit();
 }
+
+void MainWindow::on_actionCopy_triggered()
+{
+    ui->textEdit->copy();
+}
