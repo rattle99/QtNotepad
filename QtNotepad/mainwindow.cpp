@@ -73,3 +73,8 @@ void MainWindow::on_actionCopy_triggered()
 {
     ui->textEdit->copy();
 }
+
+void MainWindow::on_actionPaste_triggered()
+{
+    ui->textEdit->paste();
+}
