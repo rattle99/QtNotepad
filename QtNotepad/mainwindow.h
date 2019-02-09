@@ -3,6 +3,13 @@
 
 #include <QMainWindow>
 
+#include <QFile>
+#include <QPrinter>
+#include <QPrintDialog>
+#include <QMessageBox>
+#include <QTextStream>
+#include <QFileDialog>
+
 namespace Ui {
 class MainWindow;
 }
@@ -17,6 +24,7 @@ public:
 
 private:
     Ui::MainWindow *ui;
+    QString currentFile = "";
 };
 
 #endif // MAINWINDOW_H

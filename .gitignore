@@ -1,0 +1,4 @@
+*.pro.user
+*.autosave
+build-QtNotepad-Desktop-Debug/
+
