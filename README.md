@@ -1,21 +1,22 @@
 # QtNotepad
+
 ![GitHub Releases](https://img.shields.io/github/downloads/rattle99/QtNotepad/v1.0/total.svg)
 
 <p align="center">
   <img width="609" height="315" src="https://media.giphy.com/media/2YpNAnXlE2tmcZmmDo/giphy.gif">
 </p>
 
-___
+---
 
-QtNotepad is about *50KB* in size and is a standalone [executable](https://github.com/rattle99/QtNotepad/releases) with basic functionalities such as opening, saving, printing and creating new files.
+QtNotepad is about _50KB_ in size and is a standalone [executable](https://github.com/rattle99/QtNotepad/releases) with basic functionalities such as opening, saving, printing and creating new files.
 
 ## Installation
 
-*** Text ***
+**_ Text _**
 
 ## Usage
 
-*** Text ***
+**_ Text _**
 
 ## Contributions
 
