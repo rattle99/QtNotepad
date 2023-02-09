@@ -8,3 +8,5 @@
 ___
 
 This is a an effort to try and use Qt5 the c++ gui toolkit. The notepad app is about *50KB* in size and is a standalone [executable](https://github.com/rattle99/QtNotepad/releases) with basic functionalities such as opening, saving, printing and creating new files.
+
+Just learning the pull request feature in GitHub. Do not add it. Sorry for the trouble!
